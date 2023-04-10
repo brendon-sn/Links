@@ -3,6 +3,7 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-deploy">Deploy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -13,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="Tela do Site" src="" width="100%">
+  <img src="https://github.com/brendon-sn/Links/blob/main/assets/home.png" alt="Tela do Site" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -27,6 +28,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
+
+## 📑 Deploy
+
+Acesse o site [clicando aqui](https://brendon-sn.github.io/Links/).
 
 ## :memo: Licença
 
