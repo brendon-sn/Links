@@ -31,7 +31,7 @@ Agregador de links para usar como cartão de visitas online.
 
 ## 📑 Deploy
 
-Acesse o site [clicando aqui](https://brendon-sn.github.io/Links/).
+Acesse o site [clicando aqui](https://links-44gymke6w-brendon-sn.vercel.app/).
 
 ## :memo: Licença
 
